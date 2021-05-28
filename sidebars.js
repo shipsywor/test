@@ -37,8 +37,8 @@ module.exports = {
                   label: 'Agile Instance',
                   items: [
                     'packages/core/features/agile-instance/introduction',
-                    'packages/core/features/agile-instance/properties',
                     'packages/core/features/agile-instance/methods',
+                    'packages/core/features/agile-instance/properties',
                   ],
                 },
                 {

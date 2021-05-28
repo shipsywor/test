@@ -52,13 +52,13 @@ const customFields = {
 const config = {
   title: 'AgileTs',
   tagline: 'AgileTs is a global, simple, spacy State and Logic Framework',
-  url: customFields.domain,
+  url: "https://shipsywor.github.io",
   baseUrlIssueBanner: false,
-  baseUrl: '/',
+  baseUrl: '/test/',
   onBrokenLinks: 'throw',
   favicon: 'img/favicon.ico',
-  organizationName: 'AgileTs',
-  projectName: 'agilets',
+  organizationName: 'shipsywor',
+  projectName: 'test',
   themes: ['@docusaurus/theme-live-codeblock'],
   scripts: [{ src: 'https://snack.expo.io/embed.js', async: true }], // https://github.com/expo/snack/blob/main/docs/embedding-snacks.md
   plugins: [

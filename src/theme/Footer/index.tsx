@@ -34,7 +34,7 @@ const Footer: React.FC = () => {
                 alt="AgileTs Logo"
                 height={35}
                 width={35}
-                src="/img/logo.svg"
+                src="/img/meta.png"
                 title={siteConfig.tagline}
               />
               <div className={styles.BrandText}>AgileTs</div>
