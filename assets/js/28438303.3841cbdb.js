@@ -1,0 +1,1 @@
+(self.webpackChunkagile_docs=self.webpackChunkagile_docs||[]).push([[2461],{2112:function(l){"use strict";l.exports=JSON.parse('{"hello":{"allTagsPath":"/test/blog/tags","slug":"hello","name":"hello","count":1,"permalink":"/test/blog/tags/hello"},"agile":{"allTagsPath":"/test/blog/tags","slug":"agile","name":"agile","count":1,"permalink":"/test/blog/tags/agile"}}')}}]);

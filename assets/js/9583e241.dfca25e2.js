@@ -1,0 +1,1 @@
+(self.webpackChunkagile_docs=self.webpackChunkagile_docs||[]).push([[2528],{6353:function(e){"use strict";e.exports=JSON.parse('{"title":"Recent posts","items":[{"title":"Welcome","permalink":"/test/blog/welcome"}]}')}}]);
